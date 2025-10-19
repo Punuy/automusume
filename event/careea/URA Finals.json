@@ -1,0 +1,65 @@
+{
+  "name": "URA Finals",
+  "events": [
+    {
+      "event": "Exhilarating! What a Scoop!",
+      "options": [
+        {
+          "option": "Top",
+          "effects": [
+            "Stamina +10",
+            "Etsuko Otonashi bond +5"
+          ]
+        },
+        {
+          "option": "Bot",
+          "effects": [
+            "Guts +10",
+            "Etsuko Otonashi bond +5"
+          ]
+        }
+      ]
+    },
+    {
+      "event": "A Trainer's Knowledge",
+      "options": [
+        {
+          "option": "Top",
+          "effects": [
+            "Power +10",
+            "Etsuko Otonashi bond +5"
+          ]
+        },
+        {
+          "option": "Bot",
+          "effects": [
+            "Speed +10",
+            "Etsuko Otonashi bond +5"
+          ]
+        }
+      ]
+    },
+    {
+      "event": "Best Foot Forward!",
+      "options": [
+        {
+          "option": "Top",
+          "effects": [
+            "Energy -10",
+            "Power +20",
+            "Guts +20",
+            "Beeline Burst hint +1"
+          ]
+        },
+        {
+          "option": "Bot",
+          "effects": [
+            "Energy +30",
+            "Stamina +20",
+            "Breath of Fresh Air hint +1"
+          ]
+        }
+      ]
+    }
+  ]
+}
